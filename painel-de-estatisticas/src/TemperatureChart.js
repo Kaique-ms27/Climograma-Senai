@@ -18,7 +18,7 @@ function TemperatureChart() {
   */ 
 
     useEffect(() => {
-      const apiKey = '538bc5b5c54b0aca08f350c9aeb25456';
+      const apiKey = 'Sua-Chave-API';
       const city = 'Sao%20Paulo';
     
       // Calcule a data atual em segundos desde o Unix Epoch
